@@ -1,0 +1,9 @@
+Sentence 1: 
+            89.00% Positive
+            10.00% Neutral
+            1.00% Negative
+
+Sentence 2: 
+            100.00% Positive
+            0.00% Neutral
+            0.00% Negative
